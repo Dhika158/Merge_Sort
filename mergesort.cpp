@@ -29,6 +29,6 @@ void input()
     for (int i = 0; i < n; i++)
     {
         cout << "Array index ke-" << i << " : ";
-        
+        cin >> arr[i];
     }
 }
